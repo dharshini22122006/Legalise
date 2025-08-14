@@ -1,0 +1,57 @@
+SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is entered into on February 10, 2024, between ABC Consulting Services ("Provider") and Tech Startup Inc. ("Client").
+
+1. SCOPE OF WORK
+Provider agrees to deliver the following services:
+a) Web application development using React and Node.js
+b) Database design and implementation using PostgreSQL
+c) User interface design and user experience optimization
+d) Quality assurance testing and bug fixes
+e) Deployment and maintenance services for 6 months
+
+2. TIMELINE AND DELIVERABLES
+Phase 1: Requirements Analysis and System Design (4 weeks)
+- Completion Date: March 10, 2024
+- Deliverables: Requirements document, system architecture, wireframes
+
+Phase 2: Development and Implementation (8 weeks)
+- Completion Date: May 5, 2024
+- Deliverables: Fully functional web application, database schema
+
+Phase 3: Testing and Deployment (2 weeks)
+- Completion Date: May 19, 2024
+- Deliverables: Tested application, deployment documentation
+
+3. PAYMENT TERMS
+Total project cost: $75,000
+Payment schedule:
+a) 30% upon signing this agreement ($22,500)
+b) 40% upon Phase 1 completion ($30,000)
+c) 30% upon final delivery and acceptance ($22,500)
+
+All payments shall be made within 15 days of invoice receipt.
+
+4. INTELLECTUAL PROPERTY
+All work products, including but not limited to source code, documentation, and designs, shall be owned by Client upon full payment of all fees.
+
+5. CONFIDENTIALITY
+Both parties agree to maintain strict confidentiality regarding proprietary information disclosed during the course of this agreement.
+
+6. TERMINATION
+Either party may terminate this agreement with 30 days written notice. In case of termination, Client shall pay for all work completed up to the termination date.
+
+7. LIABILITY AND INDEMNIFICATION
+Provider's liability shall not exceed the total amount paid under this agreement. Client agrees to indemnify Provider against any claims arising from the use of the delivered services.
+
+8. DISPUTE RESOLUTION
+Any disputes arising under this agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association.
+
+Project Manager: pm@abcconsulting.com
+Client Contact: cto@techstartup.com
+Phone: 555-987-6543
+
+Signatures:
+_________________________    _________________________
+ABC Consulting Services       Tech Startup Inc.
+Date: _______________        Date: _______________

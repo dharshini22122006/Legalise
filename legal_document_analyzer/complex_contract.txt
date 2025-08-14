@@ -1,0 +1,95 @@
+COMPREHENSIVE SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is entered into on March 15, 2024, between Digital Solutions LLC ("Provider") and Enterprise Corp ("Client").
+
+1. DEFINITIONS AND INTERPRETATION
+For the purposes of this Agreement, the following terms shall have the meanings set forth below:
+"Services" means the software development, consulting, and maintenance services described in Schedule A.
+"Deliverables" means all work products, documents, and materials developed by Provider.
+"Confidential Information" means any proprietary or confidential information disclosed by either party.
+
+2. SCOPE OF SERVICES
+Provider agrees to perform the following services:
+a) Custom web application development using modern frameworks
+b) Database design and optimization services
+c) User interface and user experience design
+d) Quality assurance testing and bug resolution
+e) System integration and API development
+f) Documentation and training materials preparation
+
+3. PROJECT TIMELINE AND MILESTONES
+The project shall be completed in the following phases:
+Phase 1: Discovery and Planning (3 weeks) - Due April 5, 2024
+Phase 2: Design and Architecture (4 weeks) - Due May 3, 2024
+Phase 3: Development and Implementation (8 weeks) - Due June 28, 2024
+Phase 4: Testing and Quality Assurance (2 weeks) - Due July 12, 2024
+Phase 5: Deployment and Go-Live (1 week) - Due July 19, 2024
+
+4. PAYMENT TERMS AND CONDITIONS
+Total project cost is $125,000, payable as follows:
+a) 25% upon execution of this Agreement ($31,250)
+b) 25% upon completion of Phase 2 ($31,250)
+c) 30% upon completion of Phase 3 ($37,500)
+d) 20% upon final acceptance and delivery ($25,000)
+All invoices are due within 30 days of receipt.
+
+5. INTELLECTUAL PROPERTY RIGHTS
+All intellectual property rights in the Deliverables shall vest in Client upon full payment.
+Provider retains rights to pre-existing intellectual property and general methodologies.
+Client grants Provider a license to use Client's trademarks solely for project purposes.
+
+6. CONFIDENTIALITY AND NON-DISCLOSURE
+Both parties acknowledge that they may have access to Confidential Information.
+Each party agrees to maintain strict confidentiality and not disclose such information.
+This obligation shall survive termination of this Agreement for a period of 5 years.
+
+7. WARRANTIES AND REPRESENTATIONS
+Provider warrants that the Services will be performed in a professional manner.
+Provider represents that it has the necessary skills and resources to perform the Services.
+Client warrants that it has the authority to enter into this Agreement.
+
+8. LIMITATION OF LIABILITY
+Provider's total liability shall not exceed the total amount paid under this Agreement.
+Neither party shall be liable for indirect, incidental, or consequential damages.
+This limitation applies regardless of the form of action or legal theory.
+
+9. INDEMNIFICATION
+Client agrees to indemnify Provider against claims arising from Client's use of Deliverables.
+Provider agrees to indemnify Client against claims of intellectual property infringement.
+Each party's indemnification obligations are subject to the liability limitations herein.
+
+10. TERMINATION
+Either party may terminate this Agreement with 30 days written notice.
+Upon termination, Client shall pay for all Services performed through the termination date.
+Termination shall not affect accrued rights and obligations of either party.
+
+11. FORCE MAJEURE
+Neither party shall be liable for delays caused by circumstances beyond their control.
+Such circumstances include natural disasters, government actions, and pandemics.
+The affected party must provide prompt notice of any force majeure event.
+
+12. DISPUTE RESOLUTION
+Any disputes shall first be addressed through good faith negotiations.
+If negotiations fail, disputes shall be resolved through binding arbitration.
+Arbitration shall be conducted under the rules of the American Arbitration Association.
+
+13. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of California.
+Any legal proceedings shall be conducted in the courts of San Francisco County.
+
+14. GENERAL PROVISIONS
+This Agreement constitutes the entire agreement between the parties.
+No modifications shall be effective unless in writing and signed by both parties.
+If any provision is deemed unenforceable, the remainder shall remain in effect.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+DIGITAL SOLUTIONS LLC          ENTERPRISE CORP
+
+_________________________     _________________________
+John Smith, CEO               Sarah Johnson, CTO
+Date: _______________         Date: _______________
+
+Contact Information:
+Provider: contracts@digitalsolutions.com | Phone: 555-123-4567
+Client: legal@enterprisecorp.com | Phone: 555-987-6543
